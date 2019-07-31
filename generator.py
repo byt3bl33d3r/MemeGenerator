@@ -144,5 +144,5 @@ def generate_random_collection(number=30):
 
     return collection
 
-print("yay")
+
 my_meme_collection = generate_random_collection()
